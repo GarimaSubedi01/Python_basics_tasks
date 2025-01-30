@@ -6,4 +6,8 @@ Task 1: Age calculator ->
 A program that calculates the year when a person will turn 100 years based on their current age.
 
 Task 2: Basic calculator ->
-A program that performs basic arithmetic calculations such as addition, subtraction, multiplication, division
+A program that performs basic arithmetic calculations such as addition, subtraction, multiplication, division.
+
+
+Task 3: String manipulation ->
+A program that performs different string manipulation operations on the input string.
