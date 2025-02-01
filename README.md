@@ -8,6 +8,8 @@ A program that calculates the year when a person will turn 100 years based on th
 Task 2: Basic calculator ->
 A program that performs basic arithmetic calculations such as addition, subtraction, multiplication, division.
 
-
 Task 3: String manipulation ->
 A program that performs different string manipulation operations on the input string.
+
+Task 4: Fibonacci series and factorial calculation ->
+A program that generates fibonacci series upto desired terms and calculates factorial of the given number.
