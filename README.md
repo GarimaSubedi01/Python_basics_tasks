@@ -13,3 +13,6 @@ A program that performs different string manipulation operations on the input st
 
 Task 4: Fibonacci series and factorial calculation ->
 A program that generates fibonacci series upto desired terms and calculates factorial of the given number.
+
+Task 5: List and tuple operations ->
+A program that performs various operations on user input list.
