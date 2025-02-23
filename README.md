@@ -16,3 +16,9 @@ A program that generates fibonacci series upto desired terms and calculates fact
 
 Task 5: List and tuple operations ->
 A program that performs various operations on user input list.
+
+Task 6: Student Dictionary ->
+A program that collects student's names and their marks and determines the highest scorer and sorts them in descending order of their marks.
+
+Task 7: File Handling ->
+A program that takes input string from user, writes it to a file, reads the content back and calculates the number of words and characters.
